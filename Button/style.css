@@ -1,7 +1,6 @@
 button {
     text-align: center;
     background: linear-gradient(#fcd176, #c58b1e), orange;
-    
     border-radius: 20px;
     border:solid rgb(175, 126, 1);
     font-size: 50px;
@@ -12,10 +11,12 @@ button {
     box-shadow: 0px 6px 10px 0px grey;
     text-shadow: -1px 1px rgb(255, 251, 1), 0px -2px  rgba(255, 0, 0, 0.3);
 }
+/*Change Colour and effect if need - very basic teamplate */
 button:hover {
     color: black;
     box-shadow:0px 0px 10px orange;
 }
+/*Change Colour and effect if need - very basic teamplate */
 button:active{
     color: white;
     background: rgb(0, 0, 0);
